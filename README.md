@@ -1,7 +1,6 @@
 # ⌗ Outliner
 
-A personal, **private, local‑first** outliner — a self‑hostable take on
-[Dynalist](https://dynalist.io) Pro, wrapped in a dark **VSCode “Dark+” hacker**
+A personal, **private, local‑first** self‑hostable outliner, wrapped in a dark **VSCode “Dark+” hacker**
 theme with syntax‑token color coding.
 
 Everything lives in your browser (IndexedDB). No account, no server, no
